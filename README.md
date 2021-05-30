@@ -10,9 +10,12 @@ Has a soft-clipping overdrive circuit on the front-end, plus adjustable input at
 Has a HP-like mode that works by subtracting the LP signal from the input - there's a front-panel pot to help tune this.
 
 Tiny demo and snapshots here:
+
 https://imgur.com/a/kTCuVp1
 
 Inspiration taken from:
 http://www.timstinchcombe.co.uk/index.php?pge=diode
+
 https://www.instructables.com/Diode-Ladder-VCF-With-NO-PCB/
+
 https://www.haraldswerk.de/Filter/NGF_Ladder/NGF_Ladder.html
